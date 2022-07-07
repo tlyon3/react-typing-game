@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.stats {
+  margin-bottom: 50px;
+  margin-top: 25px;
+}
+
+.timer {
+  font-size: 50px;
+  font-weight: bold;
+  color: #61dafb;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+  color: #61dafb;
+}
+
+.typing-window {
+  font-family: monospace;
+  font-size: 16pt;
+}
